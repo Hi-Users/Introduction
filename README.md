@@ -1,5 +1,4 @@
-<div align=center>
-  ![Hi Logo](https://inrhinrh.coding.net/p/tuchuang/d/tuchuang/git/raw/6d1988f4b59e57a1c346934751eedf0a0e25e66a/HiUsersLogo.gif)  
+![Hi Logo](https://inrhinrh.coding.net/p/tuchuang/d/tuchuang/git/raw/6d1988f4b59e57a1c346934751eedf0a0e25e66a/HiUsersLogo.gif#pic_center)
   
 
 # 信息 About Us 👋
